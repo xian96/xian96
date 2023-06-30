@@ -1,15 +1,22 @@
 ### Hi there 👋
 
-#### I'm a full-stack software engineer with more than 1 year professional experience
+#### I'm a full-stack software engineer with 2+ years of professional experience
 
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/jiaxian-xing/)
 
 ### Skills
 
 #### Professional experience
-- Java, Python, JavaScript, SQL, ElasticSearch
-- SpringMVC, Node.js, ReactJS, JSP, jQuery
-- Maven, AWS, Microsoft SQL Server, PostgreSql
+- • Programming Languages: Java, JavaScript (ES6+), Python
+- • Front-End Technologies: HTML5, CSS3, JavaScript, React, Next.js, Sass, Bootstrap, Tailwind
+- • Back-End Technologies: Django, Node.js, Micronaut, ASP.NET
+- • Databases: PostgreSQL, Microsoft SQL, MongoDB
+- • ORM Tools: Hibernate, JPA, MyBatis
+- • Testing Tools: Unit Test, JUnit, Spock, Mockito, Cypress
+- • Version Control Systems: Git, SVN
+- • APIs: RESTful API, GraphQL
+- • Microservices and Containerization: Docker, Kubernetes
+- • CI/CD Tools: Octopus, Team City
 
 <!--
 **xian96/xian96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
