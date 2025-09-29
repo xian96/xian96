@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### I'm a full-stack software engineer with 2+ years of professional experience
+#### I'm a full-stack software engineer with 5+ years of professional experience
 
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/jiaxian-xing/)
 
